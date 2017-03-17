@@ -1,0 +1,4103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lectoratitle lectorafileversion="16">
+<titledata titletype="standard" savedfromdemo="true">
+<currentid>6143</currentid>
+<currtheme>TrivTheme_0085.athm</currtheme>
+<language>es</language>
+<ribbonpasteoption>0</ribbonpasteoption>
+<logpixelsx>96</logpixelsx>
+<logpixelsy>96</logpixelsy>
+</titledata>
+<resourcedata>
+<resource id="96" resourcetype="image">
+<name>right-normal.png</name>
+<relativelink>images\right-normal.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="97" resourcetype="image">
+<name>right-click.png</name>
+<relativelink>images\right-click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="98" resourcetype="image">
+<name>right-over.png</name>
+<relativelink>images\right-over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="99" resourcetype="image">
+<name>left-normal.png</name>
+<relativelink>images\left-normal.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="100" resourcetype="image">
+<name>left-click.png</name>
+<relativelink>images\left-click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="101" resourcetype="image">
+<name>left-over.png</name>
+<relativelink>images\left-over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="102" resourcetype="image">
+<name>exit-normal.png</name>
+<relativelink>images\exit-normal.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="103" resourcetype="image">
+<name>exit-click.png</name>
+<relativelink>images\exit-click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="104" resourcetype="image">
+<name>exit-over.png</name>
+<relativelink>images\exit-over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="105" resourcetype="image">
+<name>help-normal.png</name>
+<relativelink>images\help-normal.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="106" resourcetype="image">
+<name>help-click.png</name>
+<relativelink>images\help-click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="107" resourcetype="image">
+<name>help-over.png</name>
+<relativelink>images\help-over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="108" resourcetype="image">
+<name>home-normal.png</name>
+<relativelink>images\home-normal.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="109" resourcetype="image">
+<name>home-click.png</name>
+<relativelink>images\home-click.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="110" resourcetype="image">
+<name>home-over.png</name>
+<relativelink>images\home-over.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="111" resourcetype="image">
+<name>logo-placeholder.png</name>
+<relativelink>images\logo-placeholder.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="112" resourcetype="image">
+<name>header1009.png</name>
+<relativelink>images\header1009.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="113" resourcetype="image">
+<name>footer1009.png</name>
+<relativelink>images\footer1009.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="116" resourcetype="image">
+<name>background1009.png</name>
+<relativelink>images\background1009.png</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="924" resourcetype="image">
+<name>SSAA.awt.bmp</name>
+<relativelink>images\SSAA.awt.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="1566" resourcetype="image">
+<name>cserie.jpg</name>
+<relativelink>images\cserie.jpg</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="1729" resourcetype="image">
+<name>cparalelo.jpg</name>
+<relativelink>images\cparalelo.jpg</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="1794" resourcetype="image">
+<name>fescom.jpg</name>
+<relativelink>images\fescom.jpg</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="1829" resourcetype="image">
+<name>sc_0004 (100).jpg</name>
+<relativelink>images\sc_0004 (100).jpg</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="1888" resourcetype="image">
+<name>circuitomenu.jpg</name>
+<relativelink>images\circuitomenu.jpg</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="1958" resourcetype="audio">
+<name>Crunch_Rock.mp3</name>
+<relativelink>media\Crunch_Rock.mp3</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2100" resourcetype="document">
+<name>eqn.aeq</name>
+<relativelink>files\eqn.aeq</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2102" resourcetype="image">
+<name>eqn.wmf</name>
+<relativelink>images\eqn.wmf</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2253" resourcetype="document">
+<name>eqn001.aeq</name>
+<relativelink>files\eqn001.aeq</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2255" resourcetype="image">
+<name>eqn001.wmf</name>
+<relativelink>images\eqn001.wmf</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2438" resourcetype="animation">
+<name>std_qt_Cancelar.gif</name>
+<relativelink>images\std_qt_Cancelar.gif</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2445" resourcetype="animation">
+<name>std_qt_Atrás.gif</name>
+<relativelink>images\std_qt_Atrás.gif</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2452" resourcetype="animation">
+<name>std_qt_Siguiente.gif</name>
+<relativelink>images\std_qt_Siguiente.gif</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2461" resourcetype="animation">
+<name>std_qt_Hecho.gif</name>
+<relativelink>images\std_qt_Hecho.gif</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="2502" resourcetype="image">
+<name>test1.jpg</name>
+<relativelink>images\test1.jpg</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3208" resourcetype="image">
+<name>Imagen.bmp</name>
+<relativelink>images\Imagen.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3231" resourcetype="image">
+<name>Imagen 2.bmp</name>
+<relativelink>images\Imagen 2.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3326" resourcetype="image">
+<name>Imagen 3.bmp</name>
+<relativelink>images\Imagen 3.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3393" resourcetype="image">
+<name>Imagen001.bmp</name>
+<relativelink>images\Imagen001.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3426" resourcetype="image">
+<name>Imagen 2001.bmp</name>
+<relativelink>images\Imagen 2001.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3601" resourcetype="image">
+<name>Imagen002.bmp</name>
+<relativelink>images\Imagen002.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3622" resourcetype="image">
+<name>Imagen 2002.bmp</name>
+<relativelink>images\Imagen 2002.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3651" resourcetype="image">
+<name>Imagen 2003.bmp</name>
+<relativelink>images\Imagen 2003.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3851" resourcetype="image">
+<name>Imagen003.bmp</name>
+<relativelink>images\Imagen003.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3904" resourcetype="image">
+<name>Imagen 2004.bmp</name>
+<relativelink>images\Imagen 2004.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="3982" resourcetype="image">
+<name>Imagen004.bmp</name>
+<relativelink>images\Imagen004.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="4031" resourcetype="image">
+<name>Imagen 2005.bmp</name>
+<relativelink>images\Imagen 2005.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="4058" resourcetype="image">
+<name>Imagen 3001.bmp</name>
+<relativelink>images\Imagen 3001.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="4388" resourcetype="image">
+<name>Imagen 3002.bmp</name>
+<relativelink>images\Imagen 3002.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="4484" resourcetype="image">
+<name>Imagen 2006.bmp</name>
+<relativelink>images\Imagen 2006.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="4659" resourcetype="image">
+<name>Imagen005.bmp</name>
+<relativelink>images\Imagen005.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="4777" resourcetype="image">
+<name>Imagen 2007.bmp</name>
+<relativelink>images\Imagen 2007.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="4842" resourcetype="image">
+<name>Imagen 3003.bmp</name>
+<relativelink>images\Imagen 3003.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5073" resourcetype="image">
+<name>Imagen006.bmp</name>
+<relativelink>images\Imagen006.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5237" resourcetype="image">
+<name>Imagen 2008.bmp</name>
+<relativelink>images\Imagen 2008.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5264" resourcetype="image">
+<name>Imagen 3004.bmp</name>
+<relativelink>images\Imagen 3004.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5327" resourcetype="image">
+<name>Imagen 4.bmp</name>
+<relativelink>images\Imagen 4.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5397" resourcetype="image">
+<name>Imagen 2009.bmp</name>
+<relativelink>images\Imagen 2009.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5567" resourcetype="animation">
+<name>220px-Sumafasores.gif</name>
+<relativelink>images\220px-Sumafasores.gif</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5585" resourcetype="image">
+<name>Imagen007.bmp</name>
+<relativelink>images\Imagen007.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5720" resourcetype="image">
+<name>Imagen008.bmp</name>
+<relativelink>images\Imagen008.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5796" resourcetype="image">
+<name>Imagen 2010.bmp</name>
+<relativelink>images\Imagen 2010.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5877" resourcetype="image">
+<name>Imagen 3005.bmp</name>
+<relativelink>images\Imagen 3005.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5908" resourcetype="image">
+<name>Imagen 4001.bmp</name>
+<relativelink>images\Imagen 4001.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="5929" resourcetype="image">
+<name>Imagen 5.bmp</name>
+<relativelink>images\Imagen 5.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="6081" resourcetype="image">
+<name>Imagen009.bmp</name>
+<relativelink>images\Imagen009.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+<resource id="6096" resourcetype="image">
+<name>Imagen 2011.bmp</name>
+<relativelink>images\Imagen 2011.bmp</relativelink>
+<fileoffset>000000000000</fileoffset>
+<filelength>000000000000</filelength>
+<uncompressedlength>000000000000</uncompressedlength>
+<resourceflags>000000000000</resourceflags>
+</resource>
+</resourcedata>
+<variabledata>
+<variable id="2429">
+<name>RunningPageCount</name>
+<initialvalue>Página</initialvalue>
+<lastupdated>0</lastupdated>
+</variable>
+<variable id="2463" referenceobjectid="2428">
+<name>Prueba_1_Score</name>
+<initialvalue>0</initialvalue>
+<lastupdated>0</lastupdated>
+<reserved_variable />
+<autoscore_variable />
+<automatic_variable />
+<persist_variable />
+</variable>
+<variable id="2583" referenceobjectid="2582">
+<name>Question_0001</name>
+<initialvalue></initialvalue>
+<lastupdated>0</lastupdated>
+<reserved_variable />
+<automatic_variable />
+<question_variable />
+</variable>
+<variable id="2646" referenceobjectid="2645">
+<name>Question_0002</name>
+<initialvalue></initialvalue>
+<lastupdated>0</lastupdated>
+<reserved_variable />
+<automatic_variable />
+<question_variable />
+</variable>
+<variable id="2703" referenceobjectid="2702">
+<name>TrivTimerObj__0001</name>
+<initialvalue>0</initialvalue>
+<lastupdated>0</lastupdated>
+<varnotvisible>1</varnotvisible>
+<reserved_variable />
+<automatic_variable />
+<form_variable />
+</variable>
+<variable id="2737" referenceobjectid="2736">
+<name>Question_0003</name>
+<initialvalue></initialvalue>
+<lastupdated>0</lastupdated>
+<reserved_variable />
+<automatic_variable />
+<question_variable />
+</variable>
+<variable id="2753" referenceobjectid="2752">
+<name>Question_0004</name>
+<initialvalue></initialvalue>
+<lastupdated>0</lastupdated>
+<reserved_variable />
+<automatic_variable />
+<question_variable />
+</variable>
+</variabledata>
+<objectdefaults />
+<objectdata>
+<title id="1" bgimage="116" center="center">
+<name>SSAA</name>
+<lastupdated>1489604498</lastupdated>
+<bgcolor>CCCCCC</bgcolor>
+<textcolor>000000</textcolor>
+<linkcolor>0000FF</linkcolor>
+<width>1009</width>
+<height>662</height>
+<font>
+<height>14</height>
+<facename>Arial</facename>
+</font>
+<textbutton id="682" parent="1" ontop="true" proportional="false">
+<name>Menú</name>
+<lastupdated>1458609700</lastupdated>
+<possize>
+<point>
+<x>672</x>
+<y>12</y>
+</point>
+<size>
+<cx>120</cx>
+<cy>40</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>20100</type>
+<linestyle>0</linestyle>
+<strokewidth>1</strokewidth>
+<strokecolor>A2C4C9</strokecolor>
+<text>Menú</text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata>
+<controlpoint value="50" />
+</handledata>
+<shapefillinfo fillstyle="0" gradientangle="270" bevelheight="0" color="C27BA0" />
+<action id="687" parent="682" on="mouseclick">
+<name>Al hacer clic con el mouseIr a</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="979">
+<browserWnd />
+</actionitem>
+</action>
+<type>20100</type>
+</textbutton>
+<objgroup id="91" parent="1" themeobject="true">
+<name>Theme Graphics</name>
+<lastupdated>1489453211</lastupdated>
+<image id="93" parent="91" themeobject="true" resource="112" ontop="false" locked="true" proportional="true" useemptyalttag="true">
+<name>Header</name>
+<lastupdated>1458598285</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>1009</cx>
+<cy>110</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="95" parent="91" themeobject="true" resource="113" ontop="false" locked="true" proportional="true" useemptyalttag="true" posfrombottom="true">
+<name>Footer</name>
+<lastupdated>1458598285</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>84</y>
+</point>
+<size>
+<cx>1009</cx>
+<cy>95</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+</objgroup>
+<image id="5398" parent="1" resource="5397" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1489461187</lastupdated>
+<possize>
+<point>
+<x>9</x>
+<y>5</y>
+</point>
+<size>
+<cx>75</cx>
+<cy>58</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<textbutton id="87" parent="1" themeobject="true" resource="108" ontop="true" locked="true" proportional="true" posfromright="true">
+<name>Home</name>
+<lastupdated>1458603945</lastupdated>
+<possize>
+<point>
+<x>183</x>
+<y>17</y>
+</point>
+<size>
+<cx>32</cx>
+<cy>31</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+<action id="1312" parent="87" on="mouseclick">
+<name>Al hacer clic con el mouseIr a</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="1194">
+<browserWnd />
+</actionitem>
+</action>
+<type>20000</type>
+<overstate resource="110" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</overstate>
+<downstate resource="109" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</downstate>
+<disabledstate resource="108" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>60</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</disabledstate>
+</textbutton>
+<textbutton id="81" parent="1" themeobject="true" themebutton="true" resource="105" ontop="true" locked="true" proportional="true" posfromright="true">
+<name>Help</name>
+<lastupdated>1458603945</lastupdated>
+<possize>
+<point>
+<x>113</x>
+<y>17</y>
+</point>
+<size>
+<cx>19</cx>
+<cy>30</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+<action id="82" parent="81" on="mouseclick">
+<name>Help Action</name>
+<lastupdated>1458598285</lastupdated>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</action>
+<type>20000</type>
+<overstate resource="107" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</overstate>
+<downstate resource="106" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</downstate>
+<disabledstate resource="105" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>60</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</disabledstate>
+</textbutton>
+<textbutton id="75" parent="1" themeobject="true" resource="102" ontop="true" locked="true" proportional="true" posfromright="true">
+<name>Exit</name>
+<lastupdated>1458603945</lastupdated>
+<possize>
+<point>
+<x>55</x>
+<y>17</y>
+</point>
+<size>
+<cx>26</cx>
+<cy>30</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+<action id="76" parent="75" on="mouseclick">
+<name>Exit Action</name>
+<lastupdated>1458598285</lastupdated>
+<actionitem actiontaken="exit">
+<browserWnd />
+</actionitem>
+</action>
+<type>20000</type>
+<overstate resource="104" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</overstate>
+<downstate resource="103" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</downstate>
+<disabledstate resource="102" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>60</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</disabledstate>
+</textbutton>
+<textbutton id="68" parent="1" themeobject="true" resource="99" ontop="true" locked="true" proportional="true" posfromright="true" posfrombottom="true">
+<name>Back</name>
+<lastupdated>1458603945</lastupdated>
+<possize>
+<point>
+<x>148</x>
+<y>64</y>
+</point>
+<size>
+<cx>48</cx>
+<cy>48</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+<action id="69" parent="68" on="mouseclick">
+<name>Go to Previous Page</name>
+<lastupdated>1458598285</lastupdated>
+<actionitem actiontaken="goto" target="prevpage">
+<browserWnd />
+</actionitem>
+</action>
+<action id="70" parent="68" on="page show">
+<name>Hide on First Page</name>
+<lastupdated>1458598285</lastupdated>
+<actionitem actiontaken="setstate" target="thisobj" state="disabled">
+<conditionlist all_of_the_conditions="true">
+<condition varcondition="-258" comparecondition="equal">
+<stringcomparison>1</stringcomparison>
+</condition>
+</conditionlist>
+<browserWnd />
+</actionitem>
+<elseactionitem actiontaken="none">
+<browserWnd />
+</elseactionitem>
+</action>
+<type>20000</type>
+<overstate resource="101" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</overstate>
+<downstate resource="100" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</downstate>
+<disabledstate resource="99" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>60</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</disabledstate>
+</textbutton>
+<textbutton id="61" parent="1" themeobject="true" resource="96" ontop="true" locked="true" proportional="true" posfromright="true" posfrombottom="true">
+<name>Next</name>
+<lastupdated>1458603945</lastupdated>
+<possize>
+<point>
+<x>68</x>
+<y>64</y>
+</point>
+<size>
+<cx>48</cx>
+<cy>48</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+<action id="62" parent="61" on="mouseclick">
+<name>Go to Next Page</name>
+<lastupdated>1458598285</lastupdated>
+<actionitem actiontaken="goto" target="nextpage">
+<browserWnd />
+</actionitem>
+</action>
+<action id="63" parent="61" on="page show">
+<name>Hide on Last Page</name>
+<lastupdated>1458598285</lastupdated>
+<actionitem actiontaken="setstate" target="thisobj" state="disabled">
+<conditionlist all_of_the_conditions="true">
+<condition varcondition="-258" varcomparison="-259" comparecondition="equal" />
+</conditionlist>
+<browserWnd />
+</actionitem>
+<elseactionitem actiontaken="none">
+<browserWnd />
+</elseactionitem>
+</action>
+<type>20000</type>
+<overstate resource="98" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</overstate>
+<downstate resource="97" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</downstate>
+<disabledstate resource="96" ontop="false" proportional="true">
+<name></name>
+<lastupdated>0</lastupdated>
+<possize>
+<point>
+<x>0</x>
+<y>0</y>
+</point>
+<size>
+<cx>-1</cx>
+<cy>-1</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>60</opacity>
+<autosize>0</autosize>
+<type>0</type>
+<linestyle>0</linestyle>
+<strokewidth>0</strokewidth>
+<strokecolor>0963B1</strokecolor>
+<text></text>
+<textcolor>FFFFFF</textcolor>
+<fontsize>16</fontsize>
+<fontstyle>0</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Lucida Sans Unicode</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="4" gradientangle="315" bevelheight="0" color="085394" />
+</disabledstate>
+</textbutton>
+<text id="54" parent="1" themeobject="true" themecoursetitle="true" ontop="false" locked="true" defaulttext="none">
+<name>Course Title</name>
+<lastupdated>1458603945</lastupdated>
+<possize>
+<point>
+<x>9</x>
+<y>78</y>
+</point>
+<size>
+<cx>983</cx>
+<cy>22</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang1033\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs20\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2\cf1\fs26\b Analisis Fundamental de Circuitos\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Inherit</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<page id="1194" parent="1">
+<name>Principal</name>
+<lastupdated>1458608150</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="1827" parent="1194" resource="1829" ontop="false" proportional="true">
+<name>sc_0004 (100)</name>
+<lastupdated>1458608150</lastupdated>
+<possize>
+<point>
+<x>499</x>
+<y>223</y>
+</point>
+<size>
+<cx>456</cx>
+<cy>257</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="1792" parent="1194" resource="1794" ontop="false" proportional="true">
+<name>fescom</name>
+<lastupdated>1458608114</lastupdated>
+<possize>
+<point>
+<x>36</x>
+<y>198</y>
+</point>
+<size>
+<cx>463</cx>
+<cy>307</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="1197" parent="1194" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1458601518</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fnil A;}{\f2 \fnil \fcharset0 A;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs46\qc\lang2058\hich\f2\loch\f2 An\&apos;e1lisis Fundamental de Circuitos\plain\f1\fs46\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="979" parent="1">
+<name>Menu</name>
+<lastupdated>1488935462</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="1886" parent="979" resource="1888" ontop="false" proportional="true">
+<name>circuitomenu</name>
+<lastupdated>1458609872</lastupdated>
+<possize>
+<point>
+<x>437</x>
+<y>184</y>
+</point>
+<size>
+<cx>513</cx>
+<cy>326</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="1129" parent="979" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1458603842</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Men\&apos;fa\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<menu id="1079" parent="979" ontop="false" menutype="item" usetop="false" orientation="vertical" alignment="left" subalignment="left" frameoutline="outline" subframeoutline="outline">
+<name>Menú</name>
+<lastupdated>1488935393</lastupdated>
+<possize>
+<point>
+<x>70</x>
+<y>186</y>
+</point>
+<size>
+<cx>284</cx>
+<cy>64</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<bgcolor>A2C4C9</bgcolor>
+<textcolor>333333</textcolor>
+<bghlcolor>DDDDDD</bghlcolor>
+<texthlcolor>000000</texthlcolor>
+<outlinecolor>DDDDDD</outlinecolor>
+<separatorcolor>999999</separatorcolor>
+<font>
+<height>10</height>
+<facename>Arial</facename>
+</font>
+<subbgcolor>9FC5F8</subbgcolor>
+<subtextcolor>333333</subtextcolor>
+<subbghlcolor>DDDDDD</subbghlcolor>
+<subtexthlcolor>000000</subtexthlcolor>
+<suboutlinecolor>DDDDDD</suboutlinecolor>
+<subseparatorcolor>999999</subseparatorcolor>
+<subfont>
+<height>10</height>
+<facename>Arial</facename>
+</subfont>
+<menuitem>
+<name>Introducción</name>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="1024">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Conceptos Basicos</name>
+<menuitem>
+<name>Circuito Resistivo en Serie</name>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="1479">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Circuito Resistivo en Paralelo</name>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="1674">
+<browserWnd />
+</actionitem>
+</menuitem>
+</menuitem>
+<menuitem>
+<name>Unidad I - Leyes de Kirchooff en A.C. y D.C.</name>
+<menuitem>
+<name>Operación del Amperímetro</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Operación del Voltímetro</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Operacion del  Ohmetro </name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Operación del Osciloscopio</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Fasores</name>
+<menuitem>
+<name>Números Complejos</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Coordenadas Polares</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+</menuitem>
+<menuitem>
+<name>Ley de Ohm</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Ley de Kirchhoff de Voltaje</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Ley de Kirchhoff de Corriente</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Evaluacion Unidad I</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+</menuitem>
+<menuitem>
+<name>Unidad II - Técnicas de análisis en A.C. y D.C.</name>
+<menuitem>
+<name>Análisis de Mallas</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Análisis de Nodos</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>División de Voltaje</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>División de Corriente</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Evaluacion Unidad II</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+</menuitem>
+<menuitem>
+<name>Unidad III - Teoremas de Circuito </name>
+<menuitem>
+<name>Teorema de Superposición</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Teorema de Intercambio de Fuentes</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Teorema de Thevenim</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Teorema de Morton</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Teorema de Máxima Transferencia de Potencia</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Evaluacion Unidad III</name>
+<actionitem actiontaken="none">
+<browserWnd />
+</actionitem>
+</menuitem>
+</menuitem>
+<menuitem>
+<name>Definiciones</name>
+<menuitem>
+<name>Fuentes de Voltaje</name>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="3049">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Fuentes de Corriente</name>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="3357">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Errores comúnes al construir circuitos</name>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="3509">
+<browserWnd />
+</actionitem>
+</menuitem>
+<menuitem>
+<name>Palabras clave</name>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="1387">
+<browserWnd />
+</actionitem>
+</menuitem>
+</menuitem>
+<xmargin>15</xmargin>
+<ymargin>8</ymargin>
+<subxmargin>15</subxmargin>
+<subymargin>8</subymargin>
+<height>-1</height>
+<width>-1</width>
+<subheight>-1</subheight>
+<subwidth>-1</subwidth>
+<horizxmargin>15</horizxmargin>
+<horizymargin>8</horizymargin>
+<vertxmargin>15</vertxmargin>
+<vertymargin>8</vertymargin>
+</menu>
+</page>
+<chapter id="3797" parent="1">
+<name>Unidad 0 - Conceptos basicos</name>
+<lastupdated>1489454157</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<page id="1024" parent="3797">
+<name>Introducción</name>
+<lastupdated>1489457689</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="1025" parent="1024" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1458599189</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fnil A;}{\f2 \fnil \fcharset0 A;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs46\qc\lang2058\hich\f2\loch\f2 Introducci\&apos;f3n\plain\f1\fs46\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="3799" parent="3797">
+<name>Resistor</name>
+<lastupdated>1488936216</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="3852" parent="3799" resource="3851" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1488936172</lastupdated>
+<possize>
+<point>
+<x>62</x>
+<y>217</y>
+</point>
+<size>
+<cx>325</cx>
+<cy>247</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="3813" parent="3799" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488936194</lastupdated>
+<possize>
+<point>
+<x>418</x>
+<y>227</y>
+</point>
+<size>
+<cx>524</cx>
+<cy>339</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\hich\f2\loch\f2\b Definici\&apos;f3n:\par\par\plain\f2\fs28\tab Componente electr\&apos;f3nico dise\&apos;f1ado para introducir una resistencia.\b\par\par Caracteristicas:\plain\f2\fs28\par\par\tab - Lo caracteriza un valor resistivo (resistencia) &#x0A;y una tolerancia.\par\tab\b -\plain\f2\fs28  No tiene polaridad.\lang2058\hich\f2\loch\f2\par\par\b Simbolo:\par\plain\f2\fs28\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="3905" parent="3799" resource="3904" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1488936216</lastupdated>
+<possize>
+<point>
+<x>537</x>
+<y>453</y>
+</point>
+<size>
+<cx>235</cx>
+<cy>105</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="3802" parent="3799" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488935529</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Resistor\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="1479" parent="3797">
+<name>Circuito resistivo serie</name>
+<lastupdated>1488935498</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="1597" parent="1479" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1458609602</lastupdated>
+<possize>
+<point>
+<x>418</x>
+<y>227</y>
+</point>
+<size>
+<cx>524</cx>
+<cy>255</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\hich\f2\loch\f2\b Caracteristicas:\plain\f2\fs28\par\par\tab - La terminal de un dispositivo se conecta secuancialmente a la entrada del dispositivo siguiente.\par\tab - La corriente en cada elemento es la misma.\par\tab\b -\plain\f2\fs28 &#x0A; El voltaje se divide entre todos sus elementos.\par\par En los circuitos en serie se puede utilizar la resistencia equivalente:\par\b\par\qc\plain\f1\fs28\hich\f2\loch\f2\b R{\sub EQ}=R{\sub 1}+R{\sub 2}{\sub\lang2058\hich\f2\loch\f2 +...+}R{\sub\lang2058\hich\f2\loch\f2 &#x0A;n}\plain\f2\fs28\par\ql\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="1564" parent="1479" resource="1566" ontop="false" proportional="true">
+<name>cserie</name>
+<lastupdated>1458607170</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>218</y>
+</point>
+<size>
+<cx>234</cx>
+<cy>178</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="1480" parent="1479" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488934853</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f0\loch\f0\fs46 Circuito\lang2058\hich\f0\loch\f0  resistivo\lang2058\hich\f0\loch\f0  en Serie\hich\f1\loch\f1\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="1674" parent="3797">
+<name>Circuito resisitivo paralelo</name>
+<lastupdated>1488936309</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="1727" parent="1674" resource="1729" ontop="false" proportional="true">
+<name>cparalelo</name>
+<lastupdated>1458607731</lastupdated>
+<possize>
+<point>
+<x>58</x>
+<y>217</y>
+</point>
+<size>
+<cx>366</cx>
+<cy>168</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="1688" parent="1674" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1458609829</lastupdated>
+<possize>
+<point>
+<x>405</x>
+<y>212</y>
+</point>
+<size>
+<cx>524</cx>
+<cy>284</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\hich\f2\loch\f2\b Caracteristicas:\plain\f2\fs28\par\par\tab - La terminal de entrada de todos los dispositivos coinciden entre si, igual que las terminales de salida.\par\tab - El voltaje en cada elemento es la misma.\par\tab\b &#x0A;-\plain\f2\fs28  La corriente se divide entre todos sus elementos.\par\par En los circuitos en paralelo se puede utilizar la resistencia equivalente, para \lang2058\hich\f2\loch\f2 2\plain\f2\fs28  resistencias\lang2058\hich\f2\loch\f2  o para n\plain\f2\fs28 &#x0A;:\par\ql\plain\f1\fs28\plain\f2\fs28\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<equation id="2254" parent="1674" resource="2255" ontop="false" proportional="true" resequation="2253">
+<name>eqn001</name>
+<lastupdated>1458609837</lastupdated>
+<possize>
+<point>
+<x>455</x>
+<y>423</y>
+</point>
+<size>
+<cx>101</cx>
+<cy>69</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</equation>
+<equation id="2101" parent="1674" resource="2102" ontop="false" proportional="true" resequation="2100">
+<name>eqn</name>
+<lastupdated>1458609843</lastupdated>
+<possize>
+<point>
+<x>628</x>
+<y>421</y>
+</point>
+<size>
+<cx>204</cx>
+<cy>61</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</equation>
+<text id="1675" parent="1674" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488934906</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f0\loch\f0\fs46 Circuito\lang2058\hich\f0\loch\f0  resistivo\lang2058\hich\f0\loch\f0  en \lang2058\hich\f0\loch\f0 p\lang2058\hich\f0\loch\f0 aralelo\par\hich\f1\loch\f1\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="3943" parent="3797">
+<name>Capacitor</name>
+<lastupdated>1489452938</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="4116" parent="3943" ontop="false" defaulttext="none">
+<name>Bloque de texto 4</name>
+<lastupdated>1488937070</lastupdated>
+<possize>
+<point>
+<x>101</x>
+<y>360</y>
+</point>
+<size>
+<cx>299</cx>
+<cy>43</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\plain\f2\fs28 Ceramico\lang2058\hich\f2\loch\f2  \plain\f2\fs28 (No tiene polaridad)\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="4091" parent="3943" ontop="false" defaulttext="none">
+<name>Bloque de texto 3</name>
+<lastupdated>1488937066</lastupdated>
+<possize>
+<point>
+<x>104</x>
+<y>150</y>
+</point>
+<size>
+<cx>258</cx>
+<cy>30</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\plain\f2\fs28 Electrolitico\lang2058\hich\f2\loch\f2  \plain\f2\fs28 (Tiene Polaridad)\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="4059" parent="3943" resource="4058" ontop="false" proportional="true">
+<name>Imagen 3</name>
+<lastupdated>1488936720</lastupdated>
+<possize>
+<point>
+<x>127</x>
+<y>388</y>
+</point>
+<size>
+<cx>170</cx>
+<cy>130</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="4032" parent="3943" resource="4031" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1488936688</lastupdated>
+<possize>
+<point>
+<x>86</x>
+<y>182</y>
+</point>
+<size>
+<cx>235</cx>
+<cy>144</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="3983" parent="3943" resource="3982" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1489455787</lastupdated>
+<possize>
+<point>
+<x>628</x>
+<y>494</y>
+</point>
+<size>
+<cx>84</cx>
+<cy>77</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rotateEffect>
+<angle>270</angle>
+<anchorpoint>
+<x>50</x>
+<y>50</y>
+</anchorpoint>
+</rotateEffect>
+</image>
+<text id="3971" parent="3943" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489455792</lastupdated>
+<possize>
+<point>
+<x>420</x>
+<y>175</y>
+</point>
+<size>
+<cx>524</cx>
+<cy>432</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\hich\f2\loch\f2\b Definici\&apos;f3n:\par\qj\plain\f1\fs28\hich\f2\loch\f2\b\par\plain\f2\fs28\tab  \lang2058\hich\f2\loch\f2 Elemento fundamental el\&apos;e9ctrico que tiene dos superficies conductoras separadas por un material aislante &#x0A;y la capacidad de almacenar carga sobre sus placas\lang2058\hich\f2\loch\f2\b\par\ql\plain\f1\fs28\hich\f2\loch\f2\b\par Caracteristicas:\plain\f2\fs28\par\par\tab - No hay corriente a trav\&apos;e9s de un capacitor cuando el voltaje no cambia con el tiempo, &#x0A;es decir, en C.D. se comporta omo circuito abierto.\par\tab - Puede almacenar una cantidad finita de energ\&apos;eda  a\&apos;fan cuando la corriente a traves de \&apos;e9l sea cero.\par\tab - No disipa energ\&apos;eda, solo la almacena.\par\tab\b -\plain\f2\fs28  La existencia &#x0A;de polaridad depende del tipo de capacitor\par\par\b Simbolo:\par\plain\f2\fs28\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="3953" parent="3943" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488936349</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Capac\lang2058\hich\f0\loch\f0 itor\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="4361" parent="3797">
+<name>Inductor</name>
+<lastupdated>1489457689</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="4485" parent="4361" resource="4484" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1489453276</lastupdated>
+<possize>
+<point>
+<x>706</x>
+<y>501</y>
+</point>
+<size>
+<cx>132</cx>
+<cy>43</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="4437" parent="4361" resource="4388" ontop="false" proportional="true">
+<name>Imagen 3</name>
+<lastupdated>1489453244</lastupdated>
+<possize>
+<point>
+<x>537</x>
+<y>495</y>
+</point>
+<size>
+<cx>116</cx>
+<cy>46</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="4377" parent="4361" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489454157</lastupdated>
+<possize>
+<point>
+<x>418</x>
+<y>180</y>
+</point>
+<size>
+<cx>524</cx>
+<cy>432</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\hich\f2\loch\f2\b Definici\&apos;f3n:\par\qj\plain\f1\fs28\hich\f2\loch\f2\b\par\plain\f2\fs28\tab  Elemento fundamental de sistemas el\&apos;e9ctricos construido de n\&apos;famerosas vueltas de alambre alrededor de un n\&apos;facleo ferromagn\lang2058\hich\f2\loch\f2 &#x0A;\&apos;e9\plain\f2\fs28 tico\lang2058\hich\f2\loch\f2  o un n\&apos;facleo de aire.\lang2058\hich\f2\loch\f2\b\par\ql\plain\f1\fs28\hich\f2\loch\f2\b\par Caracteristicas:\plain\f2\fs28\par\par\tab - \lang2058\hich\f2\loch\f2 No hay voltaje en un inductor si la &#x0A;corriente que circula a trav\&apos;e9s de el es cero, es decir, en C.D. se comporta como corto circuito.\par\tab - Se puede almacenar una cantidad de energ\&apos;eda en un inductor cuando el voltaje es cero.\par\tab - No disipa energ\&apos;eda, solo la almacemna.\plain\f2\fs28\par\par\b &#x0A;Simbolo:\par\plain\f2\fs28\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="4364" parent="4361" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1489452967</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Inductor\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+</chapter>
+<chapter id="2802" parent="1">
+<name>Unidad I - Leyes Kirchhoff</name>
+<lastupdated>1489604505</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<page id="5516" parent="2802">
+<name>Fasor</name>
+<lastupdated>1489604511</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<animimage id="5565" parent="5516" resource="5567" ontop="false">
+<name>220px-Sumafasores</name>
+<lastupdated>1489603694</lastupdated>
+<possize>
+<point>
+<x>428</x>
+<y>272</y>
+</point>
+<size>
+<cx>149</cx>
+<cy>279</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</animimage>
+<text id="5534" parent="5516" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489603395</lastupdated>
+<possize>
+<point>
+<x>237</x>
+<y>200</y>
+</point>
+<size>
+<cx>532</cx>
+<cy>84</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\lang2058\hich\f2\loch\f2 Vector radial que tiene magnitud constante en un \&apos;e1ngulo fijo desde el eje real positivo y representa un voltaje o corriente senoidal en el dominio de vector\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="5519" parent="5516" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1489603230</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Fasor\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="5624" parent="2802">
+<name>Números Complejos</name>
+<lastupdated>1489605674</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="5930" parent="5624" resource="5929" ontop="false" proportional="true">
+<name>Imagen 5</name>
+<lastupdated>1489605548</lastupdated>
+<possize>
+<point>
+<x>442</x>
+<y>499</y>
+</point>
+<size>
+<cx>99</cx>
+<cy>38</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="5909" parent="5624" resource="5908" ontop="false" proportional="true">
+<name>Imagen 4</name>
+<lastupdated>1489605315</lastupdated>
+<possize>
+<point>
+<x>628</x>
+<y>451</y>
+</point>
+<size>
+<cx>103</cx>
+<cy>40</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="5878" parent="5624" resource="5877" ontop="false" proportional="true">
+<name>Imagen 3</name>
+<lastupdated>1489605295</lastupdated>
+<possize>
+<point>
+<x>252</x>
+<y>454</y>
+</point>
+<size>
+<cx>126</cx>
+<cy>40</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="5797" parent="5624" resource="5796" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1489605200</lastupdated>
+<possize>
+<point>
+<x>637</x>
+<y>303</y>
+</point>
+<size>
+<cx>104</cx>
+<cy>34</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="5750" parent="5624" ontop="false" defaulttext="none">
+<name>Bloque de texto 4</name>
+<lastupdated>1489605194</lastupdated>
+<possize>
+<point>
+<x>241</x>
+<y>333</y>
+</point>
+<size>
+<cx>142</cx>
+<cy>27</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Forma Binomial\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="5819" parent="5624" ontop="false" defaulttext="none">
+<name>Bloque de texto 4</name>
+<lastupdated>1489605656</lastupdated>
+<possize>
+<point>
+<x>636</x>
+<y>336</y>
+</point>
+<size>
+<cx>172</cx>
+<cy>44</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\plain\f2\fs28 Forma \lang2058\hich\f2\loch\f2 coordenada recangular\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="5721" parent="5624" resource="5720" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1489605194</lastupdated>
+<possize>
+<point>
+<x>247</x>
+<y>297</y>
+</point>
+<size>
+<cx>119</cx>
+<cy>36</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="5699" parent="5624" ontop="false" defaulttext="none">
+<name>Bloque de texto 3</name>
+<lastupdated>1489605174</lastupdated>
+<possize>
+<point>
+<x>190</x>
+<y>402</y>
+</point>
+<size>
+<cx>565</cx>
+<cy>28</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 i se denomina la unidad imaginaria, la ra\&apos;edz cuadrada de menos uno.\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="5638" parent="5624" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489604781</lastupdated>
+<possize>
+<point>
+<x>77</x>
+<y>206</y>
+</point>
+<size>
+<cx>837</cx>
+<cy>51</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\plain\f2\fs28 Un n\&apos;famero complejo, es una entidad matem\&apos;e1tica que viene dada por un par de n\&apos;fameros reales, el primero x se denomina la parte real y al segundo y la parte imaginaria.\par\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="5627" parent="5624" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1489604542</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 N\&apos;fameros complejos\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="5989" parent="2802">
+<name>Coordenadas Polares</name>
+<lastupdated>1489605985</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="6097" parent="5989" resource="6096" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1489606302</lastupdated>
+<possize>
+<point>
+<x>550</x>
+<y>312</y>
+</point>
+<size>
+<cx>154</cx>
+<cy>56</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="6082" parent="5989" resource="6081" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1489606300</lastupdated>
+<possize>
+<point>
+<x>287</x>
+<y>302</y>
+</point>
+<size>
+<cx>150</cx>
+<cy>74</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="6008" parent="5989" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489606055</lastupdated>
+<possize>
+<point>
+<x>126</x>
+<y>182</y>
+</point>
+<size>
+<cx>739</cx>
+<cy>106</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\plain\f2\fs28 El sistema de coordenadas polares es un sistema coordenado bidimensional en el cual cada punto (posici\&apos;f3n) en el plano esta determinado por un \&apos;e1ngulo y una distancia.\lang2058\hich\f2\loch\f2\par\par Definido &#x0A;un punto del plano por sus coordenadas rectangulares (x, y), se tiene que las coordenadas polares son:\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="5999" parent="5989" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1489605717</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Coordenadas polares\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="4647" parent="2802">
+<name>Ley de Ohm</name>
+<lastupdated>1489605674</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="4969" parent="4647" ontop="false" defaulttext="none">
+<name>Bloque de texto 5</name>
+<lastupdated>1489458646</lastupdated>
+<possize>
+<point>
+<x>281</x>
+<y>426</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>80</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Donde:\par\par P: Potencia (Watts)\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="4843" parent="4647" resource="4842" ontop="false" proportional="true">
+<name>Imagen 3</name>
+<lastupdated>1489458505</lastupdated>
+<possize>
+<point>
+<x>52</x>
+<y>415</y>
+</point>
+<size>
+<cx>192</cx>
+<cy>122</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="4808" parent="4647" ontop="false" defaulttext="none">
+<name>Bloque de texto 4</name>
+<lastupdated>1489458571</lastupdated>
+<possize>
+<point>
+<x>760</x>
+<y>209</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>106</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Donde:\par\par V: Voltaje\par I:  Corriente\par R: Resistencia\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="4778" parent="4647" resource="4777" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1489458569</lastupdated>
+<possize>
+<point>
+<x>644</x>
+<y>191</y>
+</point>
+<size>
+<cx>57</cx>
+<cy>156</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="4692" parent="4647" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489457918</lastupdated>
+<possize>
+<point>
+<x>87</x>
+<y>146</y>
+</point>
+<size>
+<cx>193</cx>
+<cy>28</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Georg Simon Ohm\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="4660" parent="4647" resource="4659" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1489457883</lastupdated>
+<possize>
+<point>
+<x>44</x>
+<y>169</y>
+</point>
+<size>
+<cx>277</cx>
+<cy>161</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="4650" parent="4647" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1489457720</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Ley de Ohm\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="4727" parent="4647" ontop="false" defaulttext="none">
+<name>Bloque de texto 3</name>
+<lastupdated>1489458562</lastupdated>
+<possize>
+<point>
+<x>347</x>
+<y>188</y>
+</point>
+<size>
+<cx>256</cx>
+<cy>182</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\hich\f2\loch\f2\fs32 Establece que el voltaje entre los extremos de muchos tipos de materiales conductores es directamente proporcional a la corriente que fluye a trav\&apos;e9s de ese material.\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="5051" parent="2802">
+<name>Ley Voltaje de Kirchhoff</name>
+<lastupdated>1489603194</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="5328" parent="5051" resource="5327" ontop="false" proportional="true">
+<name>Imagen 4</name>
+<lastupdated>1489460476</lastupdated>
+<possize>
+<point>
+<x>84</x>
+<y>432</y>
+</point>
+<size>
+<cx>247</cx>
+<cy>77</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="5348" parent="5051" ontop="false" defaulttext="none">
+<name>Bloque de texto 4</name>
+<lastupdated>1489460496</lastupdated>
+<possize>
+<point>
+<x>84</x>
+<y>389</y>
+</point>
+<size>
+<cx>96</cx>
+<cy>27</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Polaridad\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="5265" parent="5051" resource="5264" ontop="false" proportional="true">
+<name>Imagen 3</name>
+<lastupdated>1489460358</lastupdated>
+<possize>
+<point>
+<x>404</x>
+<y>354</y>
+</point>
+<size>
+<cx>416</cx>
+<cy>191</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="5238" parent="5051" resource="5237" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1489459986</lastupdated>
+<possize>
+<point>
+<x>556</x>
+<y>261</y>
+</point>
+<size>
+<cx>110</cx>
+<cy>88</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="5137" parent="5051" ontop="false" defaulttext="none">
+<name>Bloque de texto 3</name>
+<lastupdated>1489459820</lastupdated>
+<possize>
+<point>
+<x>373</x>
+<y>203</y>
+</point>
+<size>
+<cx>552</cx>
+<cy>81</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf3\cb1\ulc3 Normal;}{\cs1\cf3\cb1\ulc3 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\plain\f2\fs28 La LVK  establece que la suma algebraica de las elevaciones y ca\&apos;eddas de potencial alrededor de un {\field\fldlock{\*\fldinst MERGEFIELD \lang2058\hich\f2\loch\f2\cf2\sshlink\ul  HYPERLINK &quot;##Action 5195&quot; }{\fldrslt\lang2058\hich\f2\loch\f2\cf2\sshlink\ul &#x0A;lazo cerrado}} es cero.\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<actionitem actiontaken="goto" target="chapsectpage" targetobject="1387" id="5195" subtargetobject="5176">
+<browserWnd />
+</actionitem>
+<marginsize>0</marginsize>
+</text>
+<text id="5104" parent="5051" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489459385</lastupdated>
+<possize>
+<point>
+<x>111</x>
+<y>173</y>
+</point>
+<size>
+<cx>229</cx>
+<cy>22</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\hich\f2\loch\f2\fs24 Gustav Robert Kirchhoff\plain\f2\fs28\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="5074" parent="5051" resource="5073" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1489459302</lastupdated>
+<possize>
+<point>
+<x>83</x>
+<y>194</y>
+</point>
+<size>
+<cx>273</cx>
+<cy>159</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="5060" parent="5051" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1489459829</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f0\loch\f0\fs46 Ley de Voltajes de Kirch\lang2058\hich\f0\loch\f0 h\lang2058\hich\f0\loch\f0 off\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+</chapter>
+<chapter id="3004" parent="1">
+<name>Unidad 2 - Tecnicas de análiis</name>
+<lastupdated>1488931431</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<page id="3005" parent="3004">
+<name>Página 1</name>
+<lastupdated>1489459098</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+</page>
+</chapter>
+<chapter id="3006" parent="1">
+<name>Unidad 3 - Teoremas de circuitos</name>
+<lastupdated>1488931149</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<page id="3007" parent="3006">
+<name>Página 1</name>
+<lastupdated>1488931149</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+</page>
+</chapter>
+<test id="2428" parent="1" inherit="none" resultaction="none" autograde="true" showfeedback="true" forceanswerall="false" promptforname="true" promptsuccess="true" testtimerid="2702">
+<name>Prueba 1</name>
+<lastupdated>1488931546</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<subjectstring>Resultados de la prueba</subjectstring>
+<actionitem actiontaken="goto" target="nextpage">
+<browserWnd />
+</actionitem>
+<actitemcancel actiontaken="goto" target="nextpage">
+<browserWnd />
+</actitemcancel>
+<passinggrade>75</passinggrade>
+<showresultstype>10</showresultstype>
+<testtimer id="2702" parent="2428" ontop="false" timervar="2703">
+<name>Temporizador de la prueba</name>
+<lastupdated>1458612160</lastupdated>
+<possize>
+<point>
+<x>862</x>
+<y>572</y>
+</point>
+<size>
+<cx>128</cx>
+<cy>24</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<textcolor>000000</textcolor>
+<font>
+<height>12</height>
+<facename>Arial</facename>
+</font>
+<displaytimerformat>7</displaytimerformat>
+<timertype>0</timertype>
+<bordersize>0</bordersize>
+<borderstyle>0</borderstyle>
+<marginsize>0</marginsize>
+<bordercolor>000000</bordercolor>
+<outlinecolor>000000</outlinecolor>
+<timertime>60</timertime>
+<createbytest>1</createbytest>
+<outline>0</outline>
+<autostart>1</autostart>
+<action id="2704" parent="2702" on="doneplaying">
+<name>Acción de temporizador</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="submittest" target="object" targetobject="2428">
+<browserWnd />
+</actionitem>
+</action>
+</testtimer>
+<text id="2563" parent="2428" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1458611383</lastupdated>
+<possize>
+<point>
+<x>596</x>
+<y>47</y>
+</point>
+<size>
+<cx>323</cx>
+<cy>105</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\hich\f2\loch\f2\b Del siguiente circuito responda las siguiente preguntas.\plain\f2\fs28\par\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="2500" parent="2428" resource="2502" ontop="false" proportional="true">
+<name>test1</name>
+<lastupdated>1458611388</lastupdated>
+<possize>
+<point>
+<x>94</x>
+<y>24</y>
+</point>
+<size>
+<cx>498</cx>
+<cy>235</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="2430" parent="2428" visible="false" ontop="true" posfromright="true" defaulttext="none">
+<name>Número de páginas</name>
+<lastupdated>1458612160</lastupdated>
+<possize>
+<point>
+<x>131</x>
+<y>0</y>
+</point>
+<size>
+<cx>131</cx>
+<cy>23</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 P\u225 \&apos;e1gina\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+<action id="2431" parent="2430" on="page show">
+<name>Número de páginas</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="changecontents" target="object" targetobject="2430">
+<targetstring>Página  VAR(PageInChapter)  de  VAR(PagesInChapter)</targetstring>
+<browserWnd />
+</actionitem>
+</action>
+<action id="2432" parent="2430" on="page show">
+<name>Mostrar texto</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="show" target="object" targetobject="2430">
+<browserWnd />
+</actionitem>
+</action>
+</text>
+<textbutton id="2433" parent="2428" resource="2438" ontop="true" posfrombottom="true" proportional="false">
+<name>Cancelar</name>
+<lastupdated>1458612160</lastupdated>
+<possize>
+<point>
+<x>29</x>
+<y>43</y>
+</point>
+<size>
+<cx>98</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>2</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>1</strokewidth>
+<strokecolor>C0C0C0</strokecolor>
+<text>Cancelar</text>
+<textcolor>383838</textcolor>
+<fontsize>-16</fontsize>
+<fontstyle>1</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Arial</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="0" gradientangle="0" bevelheight="0" color="DDDDDD" />
+<action id="2439" parent="2433" on="mouseclick">
+<name>Al hacer clic con el mouseCancelar prueba/encuesta</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="canceltest" target="object" targetobject="2428">
+<browserWnd />
+</actionitem>
+</action>
+<type>20000</type>
+</textbutton>
+<textbutton id="2440" parent="2428" resource="2445" ontop="true" posfromright="true" posfrombottom="true" proportional="false">
+<name>Atrás</name>
+<lastupdated>1458612160</lastupdated>
+<possize>
+<point>
+<x>187</x>
+<y>43</y>
+</point>
+<size>
+<cx>92</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>2</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>1</strokewidth>
+<strokecolor>C0C0C0</strokecolor>
+<text>◄ Atrás</text>
+<textcolor>383838</textcolor>
+<fontsize>-16</fontsize>
+<fontstyle>1</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Arial</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="0" gradientangle="0" bevelheight="0" color="DDDDDD" />
+<action id="2446" parent="2440" on="mouseclick">
+<name>Al hacer clic con el mouseIr a</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="goto" target="prevpage">
+<browserWnd />
+</actionitem>
+</action>
+<type>20000</type>
+</textbutton>
+<textbutton id="2447" parent="2428" resource="2452" ontop="true" posfromright="true" posfrombottom="true" proportional="false">
+<name>Siguiente</name>
+<lastupdated>1458612160</lastupdated>
+<possize>
+<point>
+<x>108</x>
+<y>43</y>
+</point>
+<size>
+<cx>125</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>2</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>1</strokewidth>
+<strokecolor>C0C0C0</strokecolor>
+<text>Siguiente ►</text>
+<textcolor>383838</textcolor>
+<fontsize>-16</fontsize>
+<fontstyle>1</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Arial</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="0" gradientangle="0" bevelheight="0" color="DDDDDD" />
+<action id="2453" parent="2447" on="mouseclick">
+<name>Al hacer clic con el mouseIr a</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="goto" target="nextpage">
+<browserWnd />
+</actionitem>
+</action>
+<type>20000</type>
+</textbutton>
+<page id="2454" parent="2428" inherit="some">
+<name>Página 1</name>
+<lastupdated>1488931546</lastupdated>
+<excluded id="2440" />
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<objquestion id="2752" parent="2454" questiontype="matching" idtext="2754" idvar="2753">
+<name>Question 4</name>
+<lastupdated>1458612160</lastupdated>
+<linecolor>0000FF</linecolor>
+<linecolorwidth>2</linecolorwidth>
+<questiontext>4. Enlace las siguientes afirmaciones</questiontext>
+<objmatchingpair choicetype="choicepair">
+<objleftcolumn idtext="2755" />
+<objrightcolumn idtext="2758" />
+<dragitemname>1L</dragitemname>
+<choicetextright>1R</choicetextright>
+</objmatchingpair>
+<objmatchingpair choicetype="choicepair">
+<objleftcolumn idtext="2757" />
+<objrightcolumn idtext="2756" />
+<dragitemname>2L</dragitemname>
+<choicetextright>2R</choicetextright>
+</objmatchingpair>
+<text id="2754" parent="2752" ontop="false" defaulttext="none">
+<name>Texto de la pregunta</name>
+<lastupdated>1458611881</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>413</y>
+</point>
+<size>
+<cx>729</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 4. \plain\f2\fs28 Enlace las siguientes afirmaciones\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2755" parent="2752" ontop="false" defaulttext="none">
+<name>Texto de 1 opción</name>
+<lastupdated>1458611866</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>466</y>
+</point>
+<size>
+<cx>156</cx>
+<cy>23</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 R3 y R4 estan en\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2756" parent="2752" ontop="false" defaulttext="none">
+<name>Texto de opción correcta</name>
+<lastupdated>1458611866</lastupdated>
+<possize>
+<point>
+<x>606</x>
+<y>466</y>
+</point>
+<size>
+<cx>55</cx>
+<cy>23</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Serie\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2757" parent="2752" ontop="false" defaulttext="none">
+<name>Texto de 2 opción</name>
+<lastupdated>1458611866</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>497</y>
+</point>
+<size>
+<cx>202</cx>
+<cy>46</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 La Req(R3 y R4) y R5 estan en\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2758" parent="2752" ontop="false" defaulttext="none">
+<name>Texto de opción correcta</name>
+<lastupdated>1458611871</lastupdated>
+<possize>
+<point>
+<x>606</x>
+<y>497</y>
+</point>
+<size>
+<cx>79</cx>
+<cy>23</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Paralelo\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</objquestion>
+<objquestion id="2736" parent="2454" questiontype="numberentry" idtext="2738" idvar="2737" identry="2739" anyanswer="true">
+<name>Question 3</name>
+<lastupdated>1458612160</lastupdated>
+<questiontext>3. La resistencia equivalente a las resistencias R3,R4 y R5 es </questiontext>
+<maxlength>4</maxlength>
+<objchoice relationshiptype="equalto">
+<choicetext>70</choicetext>
+<choicetextright></choicetextright>
+</objchoice>
+<text id="2738" parent="2736" ontop="false" labelobject="2739" defaulttext="none">
+<name>Texto de la pregunta</name>
+<lastupdated>1458611683</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>374</y>
+</point>
+<size>
+<cx>729</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 3. \plain\f2\fs28 La resistencia equivalente a las resistencias R3,R4 y R5 es \plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<entryfield id="2739" parent="2736" ontop="false" numonly="true">
+<name>Campo de entrada</name>
+<lastupdated>1458611687</lastupdated>
+<possize>
+<point>
+<x>634</x>
+<y>366</y>
+</point>
+<size>
+<cx>160</cx>
+<cy>29</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<numchars>4</numchars>
+<default></default>
+</entryfield>
+</objquestion>
+<objquestion id="2645" parent="2454" questiontype="multchoice" idtext="2647" idvar="2646">
+<name>Question 2</name>
+<lastupdated>1458612160</lastupdated>
+<questiontext>2. La resistencia equivalete a las resistencias en paralelo R3 y R4 es:</questiontext>
+<objchoice idtext="2648" idbutton="2649">
+<choicetext>240</choicetext>
+<feedbackmethod>0</feedbackmethod>
+</objchoice>
+<objchoice idtext="2650" idbutton="2651">
+<choicetext>100</choicetext>
+<feedbackmethod>0</feedbackmethod>
+</objchoice>
+<objchoice idtext="2652" idbutton="2653" correctanswer="true">
+<choicetext>24</choicetext>
+<feedbackmethod>0</feedbackmethod>
+</objchoice>
+<text id="2647" parent="2645" ontop="false" defaulttext="none">
+<name>Texto de la pregunta</name>
+<lastupdated>1458611308</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>257</y>
+</point>
+<size>
+<cx>729</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 2. \plain\f2\fs28 La resistencia equivalete a las resistencias en paralelo R3 y R4 es:\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2648" parent="2645" ontop="false" labelobject="2649" defaulttext="none">
+<name>Texto de 1 opción</name>
+<lastupdated>1458611325</lastupdated>
+<possize>
+<point>
+<x>129</x>
+<y>281</y>
+</point>
+<size>
+<cx>702</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 240\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<radio id="2649" parent="2645" ontop="false">
+<name>Botón de 1 opción</name>
+<lastupdated>1458611325</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>283</y>
+</point>
+<size>
+<cx>19</cx>
+<cy>19</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<label></label>
+</radio>
+<text id="2650" parent="2645" ontop="false" labelobject="2651" defaulttext="none">
+<name>Texto de 2 opción</name>
+<lastupdated>1458611332</lastupdated>
+<possize>
+<point>
+<x>129</x>
+<y>306</y>
+</point>
+<size>
+<cx>702</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 100\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<radio id="2651" parent="2645" ontop="false">
+<name>Botón de 2 opción</name>
+<lastupdated>1458611332</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>308</y>
+</point>
+<size>
+<cx>19</cx>
+<cy>19</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<label></label>
+</radio>
+<text id="2652" parent="2645" ontop="false" labelobject="2653" defaulttext="none">
+<name>Texto de 3 opción</name>
+<lastupdated>1458611337</lastupdated>
+<possize>
+<point>
+<x>129</x>
+<y>330</y>
+</point>
+<size>
+<cx>702</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 24\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<radio id="2653" parent="2645" ontop="false">
+<name>Botón de 3 opción</name>
+<lastupdated>1458611337</lastupdated>
+<possize>
+<point>
+<x>102</x>
+<y>332</y>
+</point>
+<size>
+<cx>19</cx>
+<cy>19</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<label></label>
+</radio>
+</objquestion>
+<objquestion id="2582" parent="2454" questiontype="truefalse" idtext="2584" idvar="2583">
+<name>Question 1</name>
+<lastupdated>1458612160</lastupdated>
+<questiontext>1. Los resistores R2 y R5 no estan en paralelo</questiontext>
+<objchoice idtext="2585" idbutton="2586" correctanswer="true">
+<choicetext>Verdadero</choicetext>
+<feedbackmethod>0</feedbackmethod>
+</objchoice>
+<objchoice idtext="2587" idbutton="2588">
+<choicetext>Falso</choicetext>
+<feedbackmethod>0</feedbackmethod>
+</objchoice>
+<text id="2584" parent="2582" ontop="false" defaulttext="none">
+<name>Texto de la pregunta</name>
+<lastupdated>1458611045</lastupdated>
+<possize>
+<point>
+<x>594</x>
+<y>116</y>
+</point>
+<size>
+<cx>390</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 1. \plain\f2\fs28 L\lang2058\hich\f2\loch\f2 o\plain\f2\fs28 s resist\lang2058\hich\f2\loch\f2 ores\plain\f2\fs28  R2 y R5 no estan en paralelo\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2585" parent="2582" ontop="false" labelobject="2586" defaulttext="none">
+<name>Texto de 1 opción</name>
+<lastupdated>1458611053</lastupdated>
+<possize>
+<point>
+<x>621</x>
+<y>160</y>
+</point>
+<size>
+<cx>104</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Verdadero\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<radio id="2586" parent="2582" ontop="false">
+<name>Botón de verdadero</name>
+<lastupdated>1458611053</lastupdated>
+<possize>
+<point>
+<x>594</x>
+<y>162</y>
+</point>
+<size>
+<cx>19</cx>
+<cy>19</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<label></label>
+</radio>
+<text id="2587" parent="2582" ontop="false" labelobject="2588" defaulttext="none">
+<name>Texto de 2 opción</name>
+<lastupdated>1458611053</lastupdated>
+<possize>
+<point>
+<x>621</x>
+<y>184</y>
+</point>
+<size>
+<cx>60</cx>
+<cy>45</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\ql\lang2058\hich\f2\loch\f2 Falso\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<radio id="2588" parent="2582" ontop="false">
+<name>Botón de falso</name>
+<lastupdated>1458611053</lastupdated>
+<possize>
+<point>
+<x>594</x>
+<y>186</y>
+</point>
+<size>
+<cx>19</cx>
+<cy>19</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<label></label>
+</radio>
+</objquestion>
+</page>
+<page id="2455" parent="2428" inherit="some">
+<name>Última página de la prueba</name>
+<lastupdated>1488931546</lastupdated>
+<excluded id="2447" />
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<textbutton id="2456" parent="2455" resource="2461" ontop="true" posfromright="true" posfrombottom="true" proportional="false">
+<name>Hecho</name>
+<lastupdated>1458612160</lastupdated>
+<possize>
+<point>
+<x>108</x>
+<y>43</y>
+</point>
+<size>
+<cx>80</cx>
+<cy>33</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<autosize>2</autosize>
+<type>20000</type>
+<linestyle>0</linestyle>
+<strokewidth>1</strokewidth>
+<strokecolor>C0C0C0</strokecolor>
+<text>Hecho</text>
+<textcolor>383838</textcolor>
+<fontsize>-16</fontsize>
+<fontstyle>1</fontstyle>
+<textalignment>1</textalignment>
+<fontfamily>Arial</fontfamily>
+<handledata />
+<shapefillinfo fillstyle="0" gradientangle="0" bevelheight="0" color="DDDDDD" />
+<action id="2462" parent="2456" on="mouseclick">
+<name>Al hacer clic con el mouseEnviar/Procesar prueba/encuesta</name>
+<lastupdated>0</lastupdated>
+<actionitem actiontaken="submittest" target="object" targetobject="2428">
+<browserWnd />
+</actionitem>
+</action>
+<type>20000</type>
+</textbutton>
+</page>
+</test>
+<chapter id="3008" parent="1">
+<name>Definiciones</name>
+<lastupdated>1488935032</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<page id="3049" parent="3008">
+<name>Fuente Voltaje</name>
+<lastupdated>1488933003</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="3327" parent="3049" resource="3326" ontop="false" proportional="true">
+<name>Imagen 3</name>
+<lastupdated>1488932439</lastupdated>
+<possize>
+<point>
+<x>730</x>
+<y>418</y>
+</point>
+<size>
+<cx>53</cx>
+<cy>96</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="3209" parent="3049" resource="3208" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1488932418</lastupdated>
+<possize>
+<point>
+<x>275</x>
+<y>393</y>
+</point>
+<size>
+<cx>43</cx>
+<cy>126</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="3146" parent="3049" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488932108</lastupdated>
+<possize>
+<point>
+<x>573</x>
+<y>213</y>
+</point>
+<size>
+<cx>256</cx>
+<cy>223</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f2\loch\f2\fs32\b Ind\lang2058\hich\f2\loch\f2 ependientes\par (\lang2058\hich\f2\loch\f2 Ideales\lang2058\hich\f2\loch\f2 )\par\par\qj\plain\f1\fs28\plain\f2\fs28 Su voltaje\lang2058\hich\f2\loch\f2  no\plain\f2\fs28 &#x0A; depende de voltajes o corrientes de alg\&apos;fan otro elemento\lang2058\hich\f2\loch\f2  del mismo circuito.\lang2058\hich\f2\loch\f2\fs36\par\qc\plain\f1\fs28\plain\f2\fs28\par\par\ql\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<image id="3232" parent="3049" resource="3231" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1488932441</lastupdated>
+<possize>
+<point>
+<x>627</x>
+<y>411</y>
+</point>
+<size>
+<cx>47</cx>
+<cy>107</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="3083" parent="3049" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488932101</lastupdated>
+<possize>
+<point>
+<x>161</x>
+<y>210</y>
+</point>
+<size>
+<cx>256</cx>
+<cy>223</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f2\loch\f2\fs32\b Dependientes\par (Reales)\par\par\qj\plain\f1\fs28\plain\f2\fs28 Su voltaje depende de voltajes o corrientes de alg\&apos;fan otro elemento\lang2058\hich\f2\loch\f2  del mismo circuito\plain\f2\fs28 .\fs36\par\qc\plain\f1\fs28\plain\f2\fs28\par\par\ql\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="3059" parent="3049" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488931803</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Tipos de fuentes de voltaje\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="3357" parent="3008">
+<name>Fuente Corriente</name>
+<lastupdated>1488934367</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="3427" parent="3357" resource="3426" ontop="false" proportional="true">
+<name>Imagen 2</name>
+<lastupdated>1488932809</lastupdated>
+<possize>
+<point>
+<x>267</x>
+<y>404</y>
+</point>
+<size>
+<cx>51</cx>
+<cy>116</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<image id="3394" parent="3357" resource="3393" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1488932713</lastupdated>
+<possize>
+<point>
+<x>677</x>
+<y>404</y>
+</point>
+<size>
+<cx>72</cx>
+<cy>120</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="3384" parent="3357" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488932617</lastupdated>
+<possize>
+<point>
+<x>573</x>
+<y>213</y>
+</point>
+<size>
+<cx>256</cx>
+<cy>223</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f2\loch\f2\fs32\b Independientes\par (Ideales)\par\par\qj\plain\f1\fs28\plain\f2\fs28 Su \lang2058\hich\f2\loch\f2 corriente\plain\f2\fs28  no depende de voltajes o corrientes de alg\&apos;fan otro elemento del mismo circuito.\fs36\par\qc\plain\f1\fs28\plain\f2\fs28\par\par\ql\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="3371" parent="3357" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488932593</lastupdated>
+<possize>
+<point>
+<x>161</x>
+<y>210</y>
+</point>
+<size>
+<cx>256</cx>
+<cy>223</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f2\loch\f2\fs32\b Dependientes\par (Reales)\par\par\qj\plain\f1\fs28\plain\f2\fs28 Su \lang2058\hich\f2\loch\f2 corriente\plain\f2\fs28  depende de voltajes o corrientes de alg\&apos;fan otro elemento del mismo circuito.\fs36\par\qc\plain\f1\fs28\plain\f2\fs28\par\par\ql\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="3360" parent="3357" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488932536</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f0\loch\f0\fs46 Tipos de fuentes de \lang2058\hich\f0\loch\f0 corriente\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="3509" parent="3008">
+<name>Errores al construir circuitos</name>
+<lastupdated>1488934290</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<image id="3652" parent="3509" resource="3651" ontop="false" proportional="true" verticalflip="true">
+<name>Imagen 2</name>
+<lastupdated>1488934290</lastupdated>
+<possize>
+<point>
+<x>631</x>
+<y>340</y>
+</point>
+<size>
+<cx>180</cx>
+<cy>163</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rotateEffect>
+<angle>90</angle>
+<anchorpoint>
+<x>50</x>
+<y>50</y>
+</anchorpoint>
+</rotateEffect>
+</image>
+<image id="3602" parent="3509" resource="3601" ontop="false" proportional="true">
+<name>Imagen</name>
+<lastupdated>1488934059</lastupdated>
+<possize>
+<point>
+<x>120</x>
+<y>358</y>
+</point>
+<size>
+<cx>291</cx>
+<cy>148</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+</image>
+<text id="3523" parent="3509" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488933293</lastupdated>
+<possize>
+<point>
+<x>110</x>
+<y>210</y>
+</point>
+<size>
+<cx>355</cx>
+<cy>193</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f2\loch\f2\fs32\b Cortocircuito\par\lang2058\hich\f2\loch\f2\fs28\b0\par\qj\plain\f1\fs28\lang2058\hich\f2\loch\f2 Equivale a una resistencia de 0 Ohms. El voltaje en este caso es de 0 Volts, aunque la corriente tenga cualquier &#x0A;valor.\plain\f2\fs28\par\qc\plain\f1\fs28\plain\f2\fs28\par\ql\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="3589" parent="3509" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488933399</lastupdated>
+<possize>
+<point>
+<x>549</x>
+<y>205</y>
+</point>
+<size>
+<cx>355</cx>
+<cy>193</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\hich\f2\loch\f2\fs32\b Circuito\lang2058\hich\f2\loch\f2  abierto\lang2058\hich\f2\loch\f2\par\plain\f2\fs28\par\qj\plain\f1\fs28\plain\f2\fs28 Equivale a una resistencia de\lang2058\hich\f2\loch\f2  valor infinito\plain\f2\fs28 &#x0A;. \lang2058\hich\f2\loch\f2 La corriente\plain\f2\fs28  en este caso es de 0 \lang2058\hich\f2\loch\f2 Amperes\plain\f2\fs28 , aunque \lang2058\hich\f2\loch\f2 el voltaje\plain\f2\fs28  tenga cualquier valor.\par\qc\plain\f1\fs28\plain\f2\fs28\par\ql\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="3512" parent="3509" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488933044</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qc\lang2058\hich\f0\loch\f0\fs46 Errores com\&apos;fanes al construir un circuito\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+<page id="1387" parent="3008">
+<name>Palabras clave</name>
+<lastupdated>1488935032</lastupdated>
+<transitionin>
+<transtype>-1</transtype>
+<delay>0</delay>
+<speed>10</speed>
+<effect>0</effect>
+</transitionin>
+<text id="2885" parent="1387" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1488930581</lastupdated>
+<possize>
+<point>
+<x>309</x>
+<y>176</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>197</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\hich\f2\loch\f2\fs36\b Corriente \b0\par\plain\f2\fs28\par Es una medida de la velocidad a la cual la carga pasa por un punto de referencia determinado\lang2058\hich\f2\loch\f2 .\plain\f2\fs28\par\b Unidad:\plain\f2\fs28  \lang2058\hich\f2\loch\f2 &#x0A;Ampere (A)\plain\f2\fs28\par\b Simbolo:\plain\f2\fs28  \lang2058\hich\f2\loch\f2 I\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2931" parent="1387" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489455547</lastupdated>
+<possize>
+<point>
+<x>538</x>
+<y>173</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>197</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}{\f3 \fswiss \fcharset0 Calibri;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}{\s2\snext0\cf2\cb1\ulc2 ;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\hich\f2\loch\f2\fs36\b Resistencia\b0\par\plain\f2\fs28\par\lang2058\hich\f2\loch\f2 Medida de la oposici\&apos;f3n al flujo de carga a trav\&apos;e9s de un material\plain\f2\fs28\par\pard\s0\sl264\slmult1\ltrpar\ql\widctlpar\plain\f1\fs28\hich\f2\loch\f2\b &#x0A;Unidad:\plain\f2\fs28  Ohm (\hich\f3\loch\f3\u8486 \&apos;3f)\par\hich\f2\loch\f2\b Simbolo:\plain\f2\fs28  R\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="5176" parent="1387" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489460611</lastupdated>
+<possize>
+<point>
+<x>746</x>
+<y>174</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>211</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}{\f3 \fswiss \fcharset0 Calibri;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}{\s2\snext0\cf2\cb1\ulc2 ;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\lang2058\hich\f2\loch\f2\fs36\b Lazo Cerrado\lang2058\hich\f2\loch\f2\b0\par\plain\f2\fs28\par\pard\s0\sl264\slmult1\ltrpar\qj\widctlpar\plain\f1\fs28\lang2058\hich\f2\loch\f2 Cualquier trayectoria continua que sale de un punto &#x0A;en una direcci\&apos;f3n y regresa al mismo punto desde otra direcci\&apos;f3n sin abandonar el circuito.\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="2962" parent="1387" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489458790</lastupdated>
+<possize>
+<point>
+<x>309</x>
+<y>380</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>157</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}{\s2\snext0\cf2\cb1\ulc2 ;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\hich\f2\loch\f2\fs36\b Capacitancia\lang2058\hich\f2\loch\f2\par\lang2058\hich\f2\loch\f2\b0\par\plain\f2\fs28 Medida de la capacidad del capacitor para almacenar carga\par\b Unidad: \plain\f2\fs28  Faradios (F) \par\b Simbolo: \plain\f2\fs28 &#x0A;C\b  \plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="5004" parent="1387" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489458961</lastupdated>
+<possize>
+<point>
+<x>535</x>
+<y>384</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>176</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}{\s2\snext0\cf2\cb1\ulc2 ;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\lang2058\hich\f2\loch\f2\fs36\b Potencia\lang2058\hich\f2\loch\f2\b0\par\lang2058\hich\f2\loch\f2\fs28 Es una indicaci\&apos;f3n de cu\&apos;e1nto trabajo puede efectuarse en una cantidad especifica de tiempo.\b\par\lang2058\hich\f2\loch\f2 &#x0A;Unidad: \plain\f2\fs28  \lang2058\hich\f2\loch\f2 Watts\plain\f2\fs28   \par\b Simbolo: \lang2058\hich\f2\loch\f2\b0 P\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="1422" parent="1387" ontop="false" defaulttext="none">
+<name>Bloque de texto 3</name>
+<lastupdated>1489460627</lastupdated>
+<possize>
+<point>
+<x>61</x>
+<y>313</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>261</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\hich\f2\loch\f2\fs36\b Voltaje\par\qc\plain\f1\fs28\plain\f2\fs28\par\qj\plain\f1\fs28\plain\f2\fs28 Es la medida del trabajo que se requiere para mover la carga a trav\&apos;e9s de alg\&apos;fan elemento.\par\b Unidad:\plain\f2\fs28  Voltaje\par\b &#x0A;Simbolo:\plain\f2\fs28  V\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="1402" parent="1387" ontop="false" defaulttext="none">
+<name>Bloque de texto 2</name>
+<lastupdated>1489460636</lastupdated>
+<possize>
+<point>
+<x>59</x>
+<y>176</y>
+</point>
+<size>
+<cx>200</cx>
+<cy>113</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fswiss Arial;}{\f2 \fswiss \fcharset0 Arial;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs28\cf2\cb1\ulc2 Normal;}{\cs1\cf2\cb1\ulc2 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs28\qj\hich\f2\loch\f2\fs36\b Carga Electrica\b0\par\qc\plain\f1\fs28\plain\f2\fs28\par Propiedad de la Materia\par\ql\plain\f1\fs28\hich\f2\loch\f2\b Unidad:\plain\f2\fs28  Coulomb\par\b Simbolo:\plain\f2\fs28  Q\plain\f1\fs28\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+<text id="1388" parent="1387" ontop="false" defaulttext="none" textblocktype="heading1">
+<name>Bloque de texto</name>
+<lastupdated>1488930423</lastupdated>
+<possize>
+<point>
+<x>125</x>
+<y>130</y>
+</point>
+<size>
+<cx>755</cx>
+<cy>82</cy>
+</size>
+</possize>
+<cssclasses></cssclasses>
+<opacity>100</opacity>
+<rtf>{\rtf1\ansi\deflang2058\ftnbj\uc1\deff1&#x0A;{\fonttbl{\f0 \froman \fcharset0 Times New Roman;}{\f1 \fnil A;}{\f2 \fnil \fcharset0 A;}}&#x0A;{\colortbl\red0\green0\blue0 ;\red255\green255\blue255 ;\red0\green0\blue0 ;}&#x0A;{\stylesheet{\f1\fs46\cf0\cb1\ulc0 Normal;}{\cs1\cf0\cb1\ulc0 Default Paragraph Font;}}&#x0A;{\*\revtbl{Unknown;}}&#x0A;\paperw12240\paperh15840\margl1800\margr1800\margt1440\margb1440\headery720\footery720\deftab360\formshade\aendnotes\aftnnrlc\pgbrdrhead\pgbrdrfoot&#x0A;\sectd\pgwsxn12240\pghsxn15840\marglsxn1800\margrsxn1800\margtsxn1440\margbsxn1440\headery720\footery720\sbkpage\pgncont\pgndec&#x0A;\plain\plain\f1\fs46\qc\lang2058\hich\f2\loch\f2 Palabras Clave\par\plain\f1\fs46\par}&#x0A;</rtf>
+<textpublishlang>Heredar</textpublishlang>
+<marginsize>0</marginsize>
+</text>
+</page>
+</chapter>
+</title>
+</objectdata>
+</lectoratitle>
